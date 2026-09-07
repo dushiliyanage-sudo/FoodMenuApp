@@ -115,31 +115,31 @@ The application provides navigation between the main Home and Categories areas, 
 
 The Home screen displays the available food menu items retrieved from the REST API.
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.pngjpeg)
 
 ### 🗂️ Categories Screen
 
 The Categories screen displays the available food categories.
 
-![Categories Screen](screenshots/categories.png)
+![Categories Screen](screenshots/categories.jpeg)
 
 ### ➕ Add Food Screen
 
 Users can add a new food item to the menu.
 
-![Add Food Screen](screenshots/add-food.png)
+![Add Food Screen](screenshots/add-food.jpeg)
 
 ### ✏️ Edit Food Screen
 
 Users can edit the details of an existing food item.
 
-![Edit Food Screen](screenshots/edit-food.png)
+![Edit Food Screen](screenshots/edit-food.jpeg)
 
 ### 📡 Offline Mode
 
 The application can display previously cached food data when the device is offline.
 
-![Offline Mode](screenshots/offline.png)
+![Offline Mode](screenshots/offline.jpeg)
 
 ## 🚀 Getting Started
 
@@ -157,7 +157,7 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/dushiliyanage-sudo/FoodMenuApp
 ```
 
 Navigate to the project directory:
